@@ -1,7 +1,7 @@
-# resolucao-exercicios
-![Java]([https://img.shields.io](https://cdn-icons-png.flaticon.com/512/226/226777.png))
- ## Java Fundamentals & Problem Solving
-Este repositório contém uma coleção de exercícios e desafios de lógica de programação desenvolvidos por mim durante meus estudos de Java Core. O foco aqui é a aplicação prática de algoritmos, estruturas de dados e os pilares da linguagem.
+## Java Fundamentals & Problem Solving
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="70" align="left" style="margin-right: 10px;"> **Este repositório contém uma coleção de exercícios e desafios de lógica de programação desenvolvidos por mim durante meus estudos de Java Core. O foco aqui é a aplicação prática de algoritmos, estruturas de dados e os pilares da linguagem.**
+
+<br clear="left"/>
 
 ## Estes exercícios comprovam minha base técnica em:
 Sintaxe e Tipagem: Manipulação de tipos primitivos e wrappers.
